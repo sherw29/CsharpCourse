@@ -1,0 +1,12 @@
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\Erwin Colaco\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+D:\Sherwin\Visua studio\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
